@@ -5,4 +5,4 @@
 
 
 파일 구조도
-<img width ="689" src= "https://github.com/user-attachments/assets/48483343-8da6-4a7c-9e33-ab08bf8b52cb">
+<img width ="300" src= "https://github.com/user-attachments/assets/48483343-8da6-4a7c-9e33-ab08bf8b52cb">
